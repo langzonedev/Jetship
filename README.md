@@ -13,7 +13,7 @@ A futuristic, nostalgic endless flyer by **Lang Systems**. Thread a neon skyline
 | Fly straight | Release | Release |
 | Pause / resume | Pause button / Keep flying | P / Escape |
 
-Forward flight is automatic. Fly through a lime ring to gain a short speed boost; chain rings for streak feedback. Pillars end the run. Distance and rings are shown separately. Your best distance is stored on this device. Switching tabs automatically pauses the game.
+Forward flight is automatic. Fly through a lime ring to gain a short speed boost; chain rings for streak feedback. Pillars end the run with an explosion and tumbling ship debris; results appear after three seconds. Distance and rings are shown separately. Your best distance is stored on this device. Switching tabs automatically pauses the game.
 
 ## Features
 
