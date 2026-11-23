@@ -1,6 +1,6 @@
 # Jetship
 
-**[Play Jetship](https://langzonedev.github.io/Jetship/)**
+**[Play Jetship](https://langzonedev.github.io/Jetship/)** · [Lang Systems Arcade](https://arcade.langsystems.com.au/#games)
 
 A futuristic, nostalgic endless flyer by **Lang Systems**. Thread a neon skyline, dodge pillars, chase boost rings, and beat your personal best. Built for a quick run on a phone or desktop.
 
@@ -46,6 +46,6 @@ The service worker uses network-first updates and an offline cache. After an upd
 
 ## Scope
 
-Standalone first release. Arcade-directory integration is intentionally deferred until Greg has tried the game. Scores are local, not a shared leaderboard. Real-device feel and audio still benefit from player feedback.
+Standalone first release, now listed in the [Lang Systems Arcade](https://arcade.langsystems.com.au/#games). Scores are local, not a shared leaderboard. Real-device feel and audio still benefit from player feedback.
 
 See [acceptance and verification](docs/ACCEPTANCE_CRITERIA.md) and [architecture](docs/ARCHITECTURE.md).
